@@ -1,0 +1,6 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main scene" type="GodotRunConfiguration" factoryName="GodotRunConfiguration">
+    <option name="godotExe" value="C:\Program Files\Godot\Godot_v4.5.1-stable_win64.exe" />
+    <method v="2" />
+  </configuration>
+</component>
